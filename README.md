@@ -2,9 +2,9 @@
 Códigos que usé para mi Énfasis/Tesis
 
 (03/18/2025) V.1 codes:
-  - main.py
+  - registro.py
     - guarda los datos de registro de cada participante.
-    - finalizado, avanza a menu.
+    - finalizado, avanza a "menu.py"
   - menu.py (sin funcion de hilos)
     - menu de la API:
       - Validar canales (inactivo; sin funcion de hilos): ir a "eeg.py"
